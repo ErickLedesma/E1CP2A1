@@ -9,3 +9,8 @@
 	font-style: normal;
 	font-weight: 400;
 }
+@font-face {
+	font-family: 'Cuzco';
+	src: url('../fonts/The_Emperors_font.ttf')  format('truetype');
+
+}
